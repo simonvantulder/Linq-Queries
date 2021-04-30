@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Http;
 
 
-
+//heloooo
 namespace SportsORM.Controllers
 {
     public class HomeController : Controller
